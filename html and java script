@@ -10,7 +10,7 @@
 <div class="everything">
     <h2>Guess The Number</h2>
   
-    <p>We have selected a random number between 1 - 100. See if you can guess it.</p>
+    <p>I have selected a random number between 1 - 100. See if you can guess it.</p>
   
     <div class="form">
     <label for="guessField">Enter a guess: </label>
